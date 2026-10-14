@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 **I am Pravin J, An Embedded Systems Engineer that focuses on Edge Computing, DMA, RTOS, DSP and digital logic.**
+
+PROJECT REPOS:
+
+1. https://github.com/foulleopard/stm32-mfcc-fault-detection-motorcycle
