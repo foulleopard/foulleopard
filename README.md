@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 
 
 <!--
 **foulleopard/foulleopard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**I am Pravin J, An Embedded Systems Engineer that focuses on Edge Computing, DMA, RTOS, DSP and digital logic.**
