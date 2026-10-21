@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 PROJECT REPOS:
 
 1. https://github.com/foulleopard/stm32-mfcc-fault-detection-motorcycle
+2. https://github.com/foulleopard/low-latency-sound-vibration-detection-stm32-dma
